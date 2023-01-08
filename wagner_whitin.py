@@ -2,7 +2,7 @@
 wagner whitin algorithm
 
 example use:
-$ ww.py 100 1 10 60 15 150 110
+$ wagner_whitin.py 100 1 10 60 15 150 110
 with fixed cost = 100, holding cost = 1, and demands are 10 60 15 150 110
 
 
